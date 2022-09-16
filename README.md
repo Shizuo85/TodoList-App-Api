@@ -1,5 +1,5 @@
 # TodoList-Application-Api
-This is a Side Hustle Bootcamp Group Task for the backend track (NodeJs).
+This is a **Side Hustle Bootcamp** Group Task for the backend track (NodeJs).
 
  A CRUD Todo app api with authorization, authentication and validation, and also sends email to users after creating an account.
  
